@@ -1,21 +1,81 @@
-MIT License
+RapidSim Suite – Commercial License
+Version 1.0 — 25/09/2025
 
-Copyright (c) 2025 bohrlabs
+Copyright (c) 2025 Alexej Bohr
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Overview
+-----------
+RapidSim Suite is a commercial software ecosystem for simulation, development,
+testing, and presentation. It consists of four components:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- RapidSim Engine: proprietary runtime core, license-controlled.
+- RapidSim Studio: development environment, requires a developer license.
+- RapidSim Lab: headless testbench, requires a runtime license.
+- RapidSim Show: free presentation tool, redistributable without license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This License governs your use of RapidSim Suite as a whole. Specific license
+types (Studio, Lab, Engine runtime) are granted separately.
+
+2. License Types
+----------------
+(a) Evaluation License  
+You may download and evaluate RapidSim Suite at no cost for non-commercial,
+educational, or internal testing purposes. Evaluation licenses are time-limited
+and feature-restricted at the discretion of Alexej Bohr.
+
+(b) Commercial License  
+Commercial use of Studio, Lab, or Engine requires a valid paid license from
+Alexej Bohr. The license defines the scope of use, number of seats, and
+permitted environments.
+
+(c) Free Component (Show)  
+RapidSim Show may be freely redistributed in unmodified form for presentations,
+demonstrations, or training. It does not require a license.
+
+3. Restrictions
+---------------
+Unless expressly permitted in writing:
+- You may not redistribute Studio, Lab, or Engine.
+- You may not sublicense, rent, or provide the Software to third parties.
+- You may not reverse engineer, decompile, or modify the Software.
+- You may not bypass license checks or restrictions.
+- You may not use an evaluation license for commercial purposes.
+
+4. Intellectual Property
+------------------------
+All rights, title, and interest in RapidSim Suite, including Engine, Studio, Lab,
+and Show, remain with Alexej Bohr. No ownership rights are transferred by
+this License.
+
+5. Third-Party Components
+-------------------------
+RapidSim Suite may include third-party libraries under their own licenses. Those
+terms govern their use. They do not grant rights to proprietary components.
+
+6. Warranty Disclaimer
+----------------------
+RAPIDSIM SUITE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. Alexej Bohr
+DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. Limitation of Liability
+--------------------------
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, Alexej Bohr SHALL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR LOST
+PROFITS, EVEN IF ADVISED OF THE POSSIBILITY. TOTAL LIABILITY SHALL NOT EXCEED
+THE FEES PAID FOR THE LICENSE IN THE 12 MONTHS PRECEDING THE CLAIM.
+
+8. Termination
+--------------
+This License terminates automatically if you breach its terms. Upon termination,
+you must cease use and destroy all copies of RapidSim Suite.
+
+9. Governing Law
+----------------
+This License is governed by the laws of Germany. Exclusive venue for
+disputes shall be the courts in Aschaffenburg, Germany.
+
+10. Acceptance
+--------------
+By downloading, installing, or using RapidSim Suite you accept this License. If
+you do not agree, do not use the Software.
