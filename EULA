@@ -1,0 +1,65 @@
+RapidSim Suite – End User License Agreement (EULA)
+Version 1.0 — 2025-09-25
+
+IMPORTANT: Read this agreement before using the software. By installing or
+using RapidSim Suite (the “Software”) you agree to these terms. If you do not
+agree, do not install or use the Software.
+
+1. License Grant
+----------------
+The Licensor (Alexej Bohr) grants you a non-exclusive, non-transferable, revocable
+license to install and use RapidSim Suite in accordance with the license type
+you obtained (Evaluation, Commercial, or Show).
+
+2. License Validation and Server Access
+---------------------------------------
+- The Software requires internet access to validate licenses and check for
+  updates with servers operated by the Licensor.
+- License checks may occur at installation, startup, or periodically.
+- Use of the Software without successful validation is not permitted.
+
+3. Updates
+----------
+The Software may automatically check for updates and download them. Updates may
+modify or remove features. Continued use after update indicates acceptance.
+
+4. Usage Data and Statistics
+----------------------------
+- The Software may transmit limited data such as version number, license type,
+  hardware identifier, usage counters, and IP address for the purposes of
+  license validation, update delivery, and anonymous usage statistics.
+- No personal data beyond what is technically required for license validation is
+  collected.
+- Details are provided in PRIVACY.txt.
+
+5. Restrictions
+---------------
+You may not:
+- Redistribute Studio, Lab, or Engine.
+- Reverse engineer, decompile, or modify the Software.
+- Use evaluation licenses for commercial work.
+- Attempt to bypass license checks or telemetry.
+
+6. Termination
+--------------
+This EULA terminates if you fail to comply with its terms. Upon termination,
+you must stop using the Software and destroy all copies.
+
+7. Warranty Disclaimer
+----------------------
+The Software is provided “AS IS” without warranties of any kind. The Licensor
+disclaims all warranties, including merchantability and fitness for purpose.
+
+8. Limitation of Liability
+--------------------------
+To the maximum extent permitted by law, the Licensor shall not be liable for
+indirect, incidental, or consequential damages. Liability is limited to the
+license fee paid.
+
+9. Governing Law
+----------------
+This EULA is governed by German law. Venue for disputes shall be Aschaffenburg,
+Germany.
+
+ACCEPTANCE: By installing or using RapidSim Suite, you confirm acceptance of
+this EULA.

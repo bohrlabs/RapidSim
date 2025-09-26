@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+
+/build*/
+/out*/
+/.packages/
+/.vscode/
+/.idea/
+
+*.user
+*.dSYM
+*.ipch
+*.cache
+*.log
+.vs
